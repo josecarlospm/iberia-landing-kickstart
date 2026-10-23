@@ -1,0 +1,116 @@
+{
+  "meta": {
+    "title": "Atlas — Sites profissionais para comércios locais na Península Ibérica",
+    "description": "Kickstart SiteForge: sites profissionais para negócios locais em Portugal e Espanha. Zinc escuro, esmeralda, cobre — a linguagem visual Optimius."
+  },
+  "nav": {
+    "how": "Como funciona",
+    "features": "Funcionalidades",
+    "results": "Resultados",
+    "signIn": "Iniciar sessão",
+    "signUp": "Registar"
+  },
+  "hero": {
+    "eyebrow": "Kickstart · linguagem visual Ibérica",
+    "titleLead": "O seu",
+    "titleEm": "negócio",
+    "titleTail": "merece estar online",
+    "subtitle": "Esqueleto legível por IA para landings de comércios locais. O mesmo padrão de UI que Optimius Resultados: zinc escuro, esmeralda, cobre, Geist.",
+    "cta": "Comece grátis",
+    "secondary": "Saber mais"
+  },
+  "process": {
+    "label": "Processo",
+    "title": "Como funciona",
+    "subtitle": "Três passos simples — copie esta estrutura, mude a marca.",
+    "steps": [
+      {
+        "n": "01",
+        "title": "Descobrir",
+        "body": "Identificamos o seu negócio e recolhemos informação pública: morada, horários, avaliações e fotos."
+      },
+      {
+        "n": "02",
+        "title": "Gerar",
+        "body": "A IA cria um site profissional em PT-PT ou ES, com SEO e design adaptado ao seu setor."
+      },
+      {
+        "n": "03",
+        "title": "Lançar",
+        "body": "Reclame o seu site, personalize e publique. Comece grátis, escale quando quiser."
+      }
+    ]
+  },
+  "demo": {
+    "label": "Demo",
+    "title": "Veja o seu site nascer",
+    "subtitle": "Do nome do negócio a online — painel interativo (única superfície tipo card).",
+    "step1Title": "Diga-nos o nome do seu negócio",
+    "step1Body": "Procuramos o seu negócio, recolhemos o que é público e preparamos tudo automaticamente.",
+    "businessLabel": "Nome do negócio",
+    "businessExample": "Café Onda",
+    "found": "Encontrado · Av. Marginal, Cascais · 4.8 ★",
+    "step2Title": "A nossa IA cria o seu site",
+    "step2Body": "Texto local correto (PT-PT ou ES), imagens otimizadas, design adaptado ao setor.",
+    "step3Title": "Online em minutos, otimizado para o Google",
+    "step3Body": "Domínio próprio, SSL, SEO local, reservas, WhatsApp. Lighthouse 98+ desde o primeiro segundo.",
+    "online": "Site online"
+  },
+  "features": {
+    "title": "Tudo o que a sua empresa precisa",
+    "subtitle": "Grelha sem cards — títulos e corpo, sem chrome decorativo.",
+    "items": [
+      {
+        "title": "Grátis para começar",
+        "body": "O site básico pode ser gratuito. Sem custos escondidos na mensagem."
+      },
+      {
+        "title": "SEO otimizado",
+        "body": "Meta tags e schema.org desde o primeiro dia."
+      },
+      {
+        "title": "Design profissional",
+        "body": "Zinc escuro, esmeralda, cobre — o preset Ibéria."
+      },
+      {
+        "title": "Multilíngue",
+        "body": "pt / en / es com next-intl. Mude o copy, não a estrutura."
+      },
+      {
+        "title": "Ultra-rápido",
+        "body": "Objetivo Lighthouse 95–100. Carrega em menos de um segundo."
+      },
+      {
+        "title": "Pronto para agentes",
+        "body": "AGENTS.md + DESIGN.md explicam o sistema a modelos de IA."
+      }
+    ]
+  },
+  "results": {
+    "title": "Números que falam por si",
+    "stats": [
+      { "value": "Ibéria", "label": "Portugal + Espanha" },
+      { "value": "98+", "label": "Lighthouse Score" },
+      { "value": "0 €", "label": "Primeiros passos" },
+      { "value": "<60s", "label": "Tempo de geração" }
+    ]
+  },
+  "cta": {
+    "titleLead": "Pronto para levar o seu negócio",
+    "titleEm": "online",
+    "subtitle": "Remix este kickstart: brand.ts → messages → deploy.",
+    "button": "Comece grátis",
+    "note": "Template SiteForge. Sem cartão de crédito na mensagem de produto."
+  },
+  "footer": {
+    "tagline": "Kickstart SiteForge para landings de comércios locais na Península Ibérica.",
+    "product": "Produto",
+    "legal": "Legal",
+    "complaints": "Livro de reclamações",
+    "privacy": "Política de privacidade (RGPD)",
+    "terms": "Condições de utilização",
+    "contact": "Contacto",
+    "rights": "Atlas kickstart. Exemplo de template — não é um produto comercial.",
+    "aiNote": "Este repositório é um esqueleto de referência para agentes. Cumpra o Regulamento europeu sobre IA ao publicar um produto real."
+  }
+}

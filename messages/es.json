@@ -1,0 +1,116 @@
+{
+  "meta": {
+    "title": "Atlas — Sitios profesionales para comercios locales en la Península Ibérica",
+    "description": "Plantilla kickstart SiteForge: sitios web profesionales para negocios locales en Portugal y España. Oscuro, zinc, esmeralda — el lenguaje visual Optimius."
+  },
+  "nav": {
+    "how": "Cómo funciona",
+    "features": "Funcionalidades",
+    "results": "Resultados",
+    "signIn": "Iniciar sesión",
+    "signUp": "Registrarse"
+  },
+  "hero": {
+    "eyebrow": "Kickstart · lenguaje visual Iberia",
+    "titleLead": "Su",
+    "titleEm": "negocio",
+    "titleTail": "merece estar en línea",
+    "subtitle": "Esqueleto AI-readable para landings de comercios locales. Misma UI estándar que Optimius Resultados: zinc oscuro, esmeralda, cobre, Geist.",
+    "cta": "Empiece gratis",
+    "secondary": "Más información"
+  },
+  "process": {
+    "label": "Proceso",
+    "title": "Cómo funciona",
+    "subtitle": "Tres sencillos pasos — copie esta estructura, cambie la marca.",
+    "steps": [
+      {
+        "n": "01",
+        "title": "Descubrir",
+        "body": "Identificamos su negocio y recopilamos información pública: dirección, horarios, valoraciones y fotos."
+      },
+      {
+        "n": "02",
+        "title": "Generar",
+        "body": "La IA crea un sitio profesional en PT-PT o ES, con SEO y un diseño adaptado a su sector."
+      },
+      {
+        "n": "03",
+        "title": "Lanzamiento",
+        "body": "Reclame su sitio, personalícelo y publíquelo. Empiece gratis, escale cuando quiera."
+      }
+    ]
+  },
+  "demo": {
+    "label": "Demo",
+    "title": "Vea cómo nace su sitio",
+    "subtitle": "Del nombre del negocio a online — panel interactivo (única superficie tipo card).",
+    "step1Title": "Díganos el nombre de su negocio",
+    "step1Body": "Buscamos su negocio, recopilamos lo público y preparamos todo automáticamente.",
+    "businessLabel": "Nombre del negocio",
+    "businessExample": "Café Onda",
+    "found": "Encontrado · Av. Marginal, Cascais · 4.8 ★",
+    "step2Title": "Nuestra IA crea su sitio",
+    "step2Body": "Texto local correcto (PT-PT o ES), imágenes optimizadas, diseño adaptado a su sector.",
+    "step3Title": "En línea en minutos, optimizado para Google",
+    "step3Body": "Dominio propio, SSL, SEO local, reservas, WhatsApp. Lighthouse 98+ desde el primer segundo.",
+    "online": "Sitio online"
+  },
+  "features": {
+    "title": "Todo lo que su empresa necesita",
+    "subtitle": "Grid sin cards — títulos y cuerpo, sin chrome decorativo.",
+    "items": [
+      {
+        "title": "100% gratuito al empezar",
+        "body": "El sitio básico puede ser gratuito. Sin costes ocultos en el mensaje."
+      },
+      {
+        "title": "SEO optimizado",
+        "body": "Metaetiquetas y schema.org desde el primer día."
+      },
+      {
+        "title": "Diseño profesional",
+        "body": "Zinc oscuro, esmeralda, cobre — el preset Iberia."
+      },
+      {
+        "title": "Multiidioma",
+        "body": "pt / en / es con next-intl. Cambie copy, no estructura."
+      },
+      {
+        "title": "Ultrarrápido",
+        "body": "Objetivo Lighthouse 95–100. Carga en menos de un segundo."
+      },
+      {
+        "title": "Listo para agentes",
+        "body": "AGENTS.md + DESIGN.md explican el sistema a modelos de IA."
+      }
+    ]
+  },
+  "results": {
+    "title": "Cifras que hablan por sí solas",
+    "stats": [
+      { "value": "Iberia", "label": "Portugal + España" },
+      { "value": "98+", "label": "Lighthouse Score" },
+      { "value": "0 €", "label": "Primeros pasos" },
+      { "value": "<60s", "label": "Tiempo de generación" }
+    ]
+  },
+  "cta": {
+    "titleLead": "Listo para llevar su negocio",
+    "titleEm": "online",
+    "subtitle": "Remix este kickstart: brand.ts → messages → deploy.",
+    "button": "Empiece gratis",
+    "note": "Plantilla SiteForge. Sin tarjeta de crédito en el mensaje de producto."
+  },
+  "footer": {
+    "tagline": "Kickstart SiteForge para landings de comercios locales en la Península Ibérica.",
+    "product": "Producto",
+    "legal": "Legal",
+    "complaints": "Libro de reclamaciones",
+    "privacy": "Política de privacidad (RGPD)",
+    "terms": "Condiciones de uso",
+    "contact": "Contacto",
+    "rights": "Atlas kickstart. Ejemplo de plantilla — no es un producto comercial.",
+    "aiNote": "Este repositorio es un esqueleto de referencia para agentes. Cumpla el Reglamento europeo sobre IA cuando publique un producto real."
+  }
+}

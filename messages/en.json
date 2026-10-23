@@ -1,0 +1,116 @@
+{
+  "meta": {
+    "title": "Atlas — Professional sites for local shops across Iberia",
+    "description": "SiteForge kickstart: professional websites for local businesses in Portugal and Spain. Dark zinc, emerald, copper — the Optimius visual language."
+  },
+  "nav": {
+    "how": "How it works",
+    "features": "Features",
+    "results": "Results",
+    "signIn": "Sign in",
+    "signUp": "Sign up"
+  },
+  "hero": {
+    "eyebrow": "Kickstart · Iberia visual language",
+    "titleLead": "Your",
+    "titleEm": "business",
+    "titleTail": "deserves to be online",
+    "subtitle": "AI-readable skeleton for local-shop landings. Same UI standard as Optimius Results: dark zinc, emerald, copper, Geist.",
+    "cta": "Start free",
+    "secondary": "Learn more"
+  },
+  "process": {
+    "label": "Process",
+    "title": "How it works",
+    "subtitle": "Three simple steps — copy this structure, swap the brand.",
+    "steps": [
+      {
+        "n": "01",
+        "title": "Discover",
+        "body": "We identify your business and gather public information: address, hours, ratings, and photos."
+      },
+      {
+        "n": "02",
+        "title": "Generate",
+        "body": "AI builds a professional site in European Portuguese or Spanish, with SEO and sector-fit design."
+      },
+      {
+        "n": "03",
+        "title": "Launch",
+        "body": "Claim your site, customize it, and publish. Start free, scale when you are ready."
+      }
+    ]
+  },
+  "demo": {
+    "label": "Demo",
+    "title": "Watch your site take shape",
+    "subtitle": "From business name to online — interactive panel (the only card-like surface).",
+    "step1Title": "Tell us your business name",
+    "step1Body": "We look up your business, gather public data, and prepare everything automatically.",
+    "businessLabel": "Business name",
+    "businessExample": "Café Onda",
+    "found": "Found · Av. Marginal, Cascais · 4.8 ★",
+    "step2Title": "Our AI builds your site",
+    "step2Body": "Correct local language (PT-PT or ES), optimized images, design matched to your sector.",
+    "step3Title": "Online in minutes, optimized for Google",
+    "step3Body": "Own domain, SSL, local SEO, bookings, WhatsApp. Lighthouse 98+ from the first second.",
+    "online": "Site online"
+  },
+  "features": {
+    "title": "Everything your business needs",
+    "subtitle": "Grid without cards — titles and body only, no decorative chrome.",
+    "items": [
+      {
+        "title": "Free to start",
+        "body": "The basic site can stay free. No hidden fees in the product message."
+      },
+      {
+        "title": "SEO ready",
+        "body": "Meta tags and schema.org from day one."
+      },
+      {
+        "title": "Professional design",
+        "body": "Dark zinc, emerald, copper — the Iberia preset."
+      },
+      {
+        "title": "Multilingual",
+        "body": "pt / en / es via next-intl. Change copy, not structure."
+      },
+      {
+        "title": "Blazing fast",
+        "body": "Target Lighthouse 95–100. Loads in under a second."
+      },
+      {
+        "title": "Agent-ready",
+        "body": "AGENTS.md + DESIGN.md explain the system to AI models."
+      }
+    ]
+  },
+  "results": {
+    "title": "Numbers that speak for themselves",
+    "stats": [
+      { "value": "Iberia", "label": "Portugal + Spain" },
+      { "value": "98+", "label": "Lighthouse Score" },
+      { "value": "€0", "label": "To get started" },
+      { "value": "<60s", "label": "Generation time" }
+    ]
+  },
+  "cta": {
+    "titleLead": "Ready to take your business",
+    "titleEm": "online",
+    "subtitle": "Remix this kickstart: brand.ts → messages → deploy.",
+    "button": "Start free",
+    "note": "SiteForge template. No credit card in the product message."
+  },
+  "footer": {
+    "tagline": "SiteForge kickstart for local-shop landings across Iberia.",
+    "product": "Product",
+    "legal": "Legal",
+    "complaints": "Complaints book",
+    "privacy": "Privacy policy (GDPR)",
+    "terms": "Terms of use",
+    "contact": "Contact",
+    "rights": "Atlas kickstart. Template example — not a commercial product.",
+    "aiNote": "This repository is a reference skeleton for agents. Follow the EU AI Act when you ship a real product."
+  }
+}
